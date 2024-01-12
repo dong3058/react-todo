@@ -1,0 +1,31 @@
+.name{
+    flex:1;
+
+    
+    
+    
+}
+.cost2{
+    flex:1;
+    text-align:right;
+    margin-right:10px;
+}
+
+
+
+.lists{
+    display:flex;
+    width:100%;
+    border:1px solid black;
+    height:25px;
+    margin:10px 0 10px 0;
+   
+
+}
+
+.deleteunit{
+    
+    border-radius:50%;
+
+
+}

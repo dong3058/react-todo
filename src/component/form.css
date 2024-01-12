@@ -1,0 +1,41 @@
+.costname{
+    width:45%;
+    border:none;
+    border-bottom:1px dotted black;
+    outline:none;
+    
+    
+    
+}
+.cost{
+    width:45%;
+    border:none;
+    border-bottom:1px dotted black;
+    outline:none;
+}
+
+
+
+
+
+
+form{
+    display:flex;
+    justify-content:space-between;
+    align-items:space-between;
+    flex-flow:row wrap;
+}
+.submitcost{
+    margin-top:10px;
+    margin-bottom:10px;
+    width:70px;
+    height:30px;
+    border:solid black 1px;
+    background-color:lightgreen;
+}
+
+.price{
+
+    margin-right:60px;
+    float:right;
+}
